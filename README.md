@@ -86,4 +86,4 @@ sub2.example.com
 - Hapus/redaksi API key sebelum push ke repository publik
 
 ## Selamat Berrecon! 🕵️♂️
-
+[![asciicast](https://asciinema.org/a/700208.svg)](https://asciinema.org/a/700208)
